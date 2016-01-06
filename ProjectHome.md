@@ -1,0 +1,1 @@
+Cliente de IRC para facilitar a comunicação dos clientes IPTV que utilizam modo visualizador.
